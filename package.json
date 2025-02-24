@@ -1,0 +1,33 @@
+{
+  "name": "anju-js",
+  "version": "3.0.0",
+  "description": "AnjuJS is a lightweight and highly efficient encryption library designed to ensure secure password management without compromising performance. Its flexible architecture allows for customizable security parameters, including salt usage, adaptive encryption configurations, and a signature key that strengthens data integrity between the frontend and backend. With a focus on speed, security, and seamless integration, anjuJS provides a robust solution for developers seeking precise control over credential protection and sensitive data encryption.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  "anjuJS",
+  "encryption",
+  "password hashing",
+  "security",
+  "cryptography",
+  "secure storage",
+  "hashing algorithm",
+  "salted encryption",
+  "auth",
+  "secure authentication",
+  "crypto library",
+  "secure API",
+  "node.js security",
+  "frontend security",
+  "backend security"
+  ],
+  "authors": [
+    "Antelo Santino <santino.antelo@outlook.es>"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
