@@ -18,7 +18,7 @@ npm install anjujs
 ### Example: Encryption and Decryption
 Here’s an example of how to use AnjuJS for encrypting and decrypting a message:
 
-const anju = require("anjujs");
+const anju = require("anju-js");
 require('dotenv').config();
 
 // Configuration
