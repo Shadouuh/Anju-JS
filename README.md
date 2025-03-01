@@ -12,7 +12,7 @@ AnjuJS is a lightweight and efficient library for password encryption. It allows
 ## Installation
 
 To install AnjuJS, you can use npm:
-npm install anjujs
+npm install anju-js
 
 ## Usage
 ### Example: Encryption and Decryption
